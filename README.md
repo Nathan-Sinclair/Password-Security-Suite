@@ -63,10 +63,11 @@ These tools have been created in the Python programming language.
 - If you want to use a different wordlist, save it in the repository folder and name it "rockyou.txt" so the program can access it correctly.
 
 ## Installation Instructions:
-1. Clone or download the repository folder to your local machine.
-2. Open a terminal and navigate to the repository folder.
-3. Run the main program. Type "python main.py".
-4. Follow the on-screen prompts to use; Password Strength Analyser, Secure Password Generator & Password Cracker.
+1. Install prerequisites and dependencies.
+2. Clone or download the repository folder to your local machine.
+3. Open a terminal and navigate to the repository folder.
+4. Run the main program. Type "python main.py".
+5. Follow the on-screen prompts to use; Password Strength Analyser, Secure Password Generator & Password Cracker.
 
 ## Troubleshooting:
 - python is not recognized as an internal or external command. Cause & Fix: Python is not installed or not in PATH, add it to your PATH.
