@@ -86,7 +86,7 @@ These tools have been created in the Python programming language.
 - John The Ripper: password cracking tool.
 
 ### Wordlists & Data Sources
-- rockyou.txt: common password list.
+- rockyou.txt: Common password list used for testing and password cracking.
 - HaveIBeenPwned: API, breached passwords.
   
 ### Contributors 
