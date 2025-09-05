@@ -59,7 +59,8 @@ These tools have been created in the Python programming language.
 - Download the Jumbo version from Openwall: https://www.openwall.com/john/
 - Ensure the executable (john.exe) is accessible via PATH. By default it is usually something like this C:\John\run
 ### Wordlist
-- rockyou.txt (included in the repository).
+- rockyou.txt because it is too large it cannot be included in the repository on Github. Please download rockyou.txt and save it in the repository folder on your local machine as "rockyou.txt".
+- If you want to use another wordlist still save it in the repository folder on your local machine as "rockyou.txt".
 
 ## Installation Instructions:
 1. Clone or download the repository folder to your local machine.
