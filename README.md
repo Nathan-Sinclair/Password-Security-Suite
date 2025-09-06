@@ -97,7 +97,7 @@ These tools have been created in the Python programming language.
 - Nathan Sinclair: sole developer of the project (design, coding, and documentation).
 
 ### AI Tools
-- ChatGPT & copilot – for code suggestions, explanations and debugging support.
+- ChatGPT & Copilot – for code suggestions, explanations and debugging support.
 
 ### Special Thanks
 - Stack Overflow: community Q&A, troubleshooting and solutions.
