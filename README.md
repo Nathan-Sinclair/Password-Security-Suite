@@ -1,4 +1,12 @@
 # Password Security Suite
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![Perl](https://img.shields.io/badge/Perl-required-blue)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-included-green)
+![License](https://img.shields.io/github/license/Nathan-Sinclair/Password-Security-Suite)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)
+
 ## Purpose:
 Allows users to generate secure passwords, analyse their strength, and test their resilience.
 
@@ -107,5 +115,6 @@ You can run the Password Security Suite in a Docker container, which includes Jo
 
 ### Special Thanks
 - Stack Overflow: community Q&A, troubleshooting and solutions.
+
 
 
