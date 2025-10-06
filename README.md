@@ -76,9 +76,9 @@ You can run the Password Security Suite in a Docker container, which includes Jo
 
   docker build -t password-security-suite -f docker/Dockerfile .
 
-- Start the container interactively:
+- Start the container interactively (with wordlist mount):
 
-  docker run -it password-security-suite
+  docker run -it -v /absolute/path/to/your/wordlists:/app/wordlists password-security-suite
 
 - Once inside the container, navigate to the app folder (if needed) and run:
 
