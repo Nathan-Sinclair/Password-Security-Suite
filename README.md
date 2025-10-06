@@ -3,9 +3,9 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![Perl](https://img.shields.io/badge/Perl-required-blue)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-included-green)
-![License: MIT](https://img.shields.io/github/license/Nathan-Sinclair/password-security-suite)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)
+![License: MIT](https://img.shields.io/github/license/Nathan-Sinclair/Password-Security-Suite)
+![Last Commit](https://img.shields.io/github/last-commit/Nathan-Sinclair/Password-Security-Suite)
+![Repo Size](https://img.shields.io/github/repo-size/Nathan-Sinclair/Password-Security-Suite)
 
 ## Purpose:
 Allows users to generate secure passwords, analyse their strength, and test their resilience.
