@@ -20,12 +20,12 @@ A toolkit consisting of three tools:
 These tools have been created in the Python programming language.
 
 ## Skills Gained:
-- Python Development: Built interactive CLI tools using Python 3.8, requests, and pwinput.
-- Cybersecurity & Password Security: Evaluated password strength, entropy, and hashed passwords; integrated breach detection (HaveIBeenPwned).
-- Password Cracking & Cryptography: Used John the Ripper Jumbo and worked with MD5, SHA, NTLM, bcrypt, scrypt, and Argon2 hashes.
-- File Security & Formats: Handled password-protected ZIP, RAR, 7z, PDF, and Office files.
-- Containerization & Scripting: Packaged tools with Docker and integrated Perl scripts for automation.
-- Problem Solving & Security Awareness: Designed secure password generation, detection, and cracking workflows; wrote robust error handling and documentation.
+- Python Development: Built interactive CLI tools with Python 3.8, leveraging requests and pwinput.
+- Cybersecurity & Cryptography: Assessed password strength, entropy, and hashes; implemented breach detection (HaveIBeenPwned).
+- Password Cracking & Security Testing: Used John the Ripper for MD5, SHA, NTLM, bcrypt, scrypt, and Argon2 hashes.
+- File Security & Formats: Managed password-protected ZIP, RAR, 7z, PDF, and Office files.
+- Automation & Containerization: Integrated Perl scripts and optional Docker support for streamlined execution.
+- Problem Solving & Security Awareness: Developed secure workflows with robust error handling and documentation.
   
 ## Features:
 ### Main Menu:
