@@ -70,6 +70,10 @@ These tools have been created in the Python programming language.
 3. Open a terminal and navigate to the repository folder.
 4. Run the main program. Type "python main.py".
 5. Follow the on-screen prompts to use; Password Strength Analyser, Secure Password Generator & Password Cracker.
+### Run With Docker 
+Build image with John the Ripper:
+```bash
+docker build -t password-security-suite -f docker/Dockerfile .
 
 ## Troubleshooting:
 - python is not recognized as an internal or external command. Cause & Fix: Python is not installed or not in PATH, add it to your PATH.
