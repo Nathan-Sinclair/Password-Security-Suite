@@ -71,22 +71,11 @@ These tools have been created in the Python programming language.
 4. Run the main program. Type "python main.py".
 5. Follow the on-screen prompts to use; Password Strength Analyser, Secure Password Generator & Password Cracker.
 ### Run With Docker:
-You can run the Password Security Suite in a Docker container, which includes John the Ripper, Python 3.8, and required dependencies.
-- Make sure the `Dockerfile` is located in the `docker/` folder at the repository root. Then build the image:
-
-  docker build -t password-security-suite -f docker/Dockerfile .
-
-- Start the container interactively (with wordlist mount):
-
-  docker run -it -v /absolute/path/to/your/wordlists:/app/wordlists password-security-suite
-
-- Once inside the container, navigate to the app folder (if needed) and run:
-
-  python main.py
-
-- To use a local wordlist like `rockyou.txt`, mount the folder into the container:
-
-  docker run -it -v /path/to/wordlists:/app/wordlists password-security-suite
+You can run the Password Security Suite in a Docker container, which includes John the Ripper, Python 3.8, and required dependencies. Make sure the `Dockerfile` is located in the `docker/` folder at the repository root. 
+1. Build the image:    
+  `docker build -t password-security-suite -f docker/Dockerfile .`  
+2. Run the container with a wordlist:  
+  `docker run -it -v /absolute/path/to/your/wordlist/folder:/app password-security-suite`
   
 ## Troubleshooting:
 - python is not recognized as an internal or external command. Cause & Fix: Python is not installed or not in PATH, add it to your PATH.
